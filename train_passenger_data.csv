@@ -1,0 +1,201 @@
+Passenger_ID,Group_ID,Num_Passengers,Boarding_Station,Destination_Station,Seat_Preference
+P001,G001,3,8,11,Side
+P002,G001,3,8,11,Side
+P003,G001,3,8,11,Side
+P004,G002,2,12,20,No Preference
+P005,G002,2,12,20,No Preference
+P006,G003,1,16,17,Lower
+P007,G004,2,17,18,No Preference
+P008,G004,2,17,18,No Preference
+P009,G005,2,4,9,Upper
+P010,G005,2,4,9,Upper
+P011,G006,6,6,16,Lower
+P012,G006,6,6,16,Lower
+P013,G006,6,6,16,Lower
+P014,G006,6,6,16,Lower
+P015,G006,6,6,16,Lower
+P016,G006,6,6,16,Lower
+P017,G007,3,17,18,Side
+P018,G007,3,17,18,Side
+P019,G007,3,17,18,Side
+P020,G008,2,7,11,Side
+P021,G008,2,7,11,Side
+P022,G009,1,3,18,Upper
+P023,G010,2,10,12,Side
+P024,G010,2,10,12,Side
+P025,G011,4,17,20,Upper
+P026,G011,4,17,20,Upper
+P027,G011,4,17,20,Upper
+P028,G011,4,17,20,Upper
+P029,G012,1,8,20,No Preference
+P030,G013,1,18,20,Lower
+P031,G014,1,9,11,Upper
+P032,G015,2,10,11,Side
+P033,G015,2,10,11,Side
+P034,G016,3,2,7,No Preference
+P035,G016,3,2,7,No Preference
+P036,G016,3,2,7,No Preference
+P037,G017,2,11,19,Lower
+P038,G017,2,11,19,Lower
+P039,G018,1,1,16,Lower
+P040,G019,2,14,16,Upper
+P041,G019,2,14,16,Upper
+P042,G020,1,11,12,No Preference
+P043,G021,2,4,16,No Preference
+P044,G021,2,4,16,No Preference
+P045,G022,4,9,12,No Preference
+P046,G022,4,9,12,No Preference
+P047,G022,4,9,12,No Preference
+P048,G022,4,9,12,No Preference
+P049,G023,5,10,11,No Preference
+P050,G023,5,10,11,No Preference
+P051,G023,5,10,11,No Preference
+P052,G023,5,10,11,No Preference
+P053,G023,5,10,11,No Preference
+P054,G024,2,15,18,No Preference
+P055,G024,2,15,18,No Preference
+P056,G025,6,1,12,No Preference
+P057,G025,6,1,12,No Preference
+P058,G025,6,1,12,No Preference
+P059,G025,6,1,12,No Preference
+P060,G025,6,1,12,No Preference
+P061,G025,6,1,12,No Preference
+P062,G026,1,6,19,Upper
+P063,G027,1,2,8,Side
+P064,G028,2,9,13,Lower
+P065,G028,2,9,13,Lower
+P066,G029,4,5,13,Upper
+P067,G029,4,5,13,Upper
+P068,G029,4,5,13,Upper
+P069,G029,4,5,13,Upper
+P070,G030,2,12,13,Side
+P071,G030,2,12,13,Side
+P072,G031,2,11,12,Side
+P073,G031,2,11,12,Side
+P074,G032,1,10,16,Side
+P075,G033,1,19,20,Lower
+P076,G034,1,15,16,Side
+P077,G035,1,18,19,Lower
+P078,G036,3,4,20,No Preference
+P079,G036,3,4,20,No Preference
+P080,G036,3,4,20,No Preference
+P081,G037,2,13,19,No Preference
+P082,G037,2,13,19,No Preference
+P083,G038,2,12,17,Lower
+P084,G038,2,12,17,Lower
+P085,G039,3,9,15,Upper
+P086,G039,3,9,15,Upper
+P087,G039,3,9,15,Upper
+P088,G040,1,6,14,Side
+P089,G041,3,2,11,No Preference
+P090,G041,3,2,11,No Preference
+P091,G041,3,2,11,No Preference
+P092,G042,3,13,20,Side
+P093,G042,3,13,20,Side
+P094,G042,3,13,20,Side
+P095,G043,1,19,20,Lower
+P096,G044,1,10,19,Upper
+P097,G045,1,5,7,Lower
+P098,G046,5,10,20,No Preference
+P099,G046,5,10,20,No Preference
+P100,G046,5,10,20,No Preference
+P101,G046,5,10,20,No Preference
+P102,G046,5,10,20,No Preference
+P103,G047,4,1,8,Lower
+P104,G047,4,1,8,Lower
+P105,G047,4,1,8,Lower
+P106,G047,4,1,8,Lower
+P107,G048,2,10,14,Side
+P108,G048,2,10,14,Side
+P109,G049,4,17,20,No Preference
+P110,G049,4,17,20,No Preference
+P111,G049,4,17,20,No Preference
+P112,G049,4,17,20,No Preference
+P113,G050,1,7,12,Lower
+P114,G051,1,11,18,Lower
+P115,G052,2,15,18,No Preference
+P116,G052,2,15,18,No Preference
+P117,G053,3,16,19,Upper
+P118,G053,3,16,19,Upper
+P119,G053,3,16,19,Upper
+P120,G054,2,18,20,Lower
+P121,G054,2,18,20,Lower
+P122,G055,1,19,20,No Preference
+P123,G056,2,3,9,Upper
+P124,G056,2,3,9,Upper
+P125,G057,1,5,16,No Preference
+P126,G058,1,2,4,Lower
+P127,G059,1,1,8,No Preference
+P128,G060,3,6,17,Side
+P129,G060,3,6,17,Side
+P130,G060,3,6,17,Side
+P131,G061,3,5,11,Side
+P132,G061,3,5,11,Side
+P133,G061,3,5,11,Side
+P134,G062,1,11,13,Upper
+P135,G063,1,6,11,Lower
+P136,G064,1,6,20,Upper
+P137,G065,2,13,20,Side
+P138,G065,2,13,20,Side
+P139,G066,4,18,20,No Preference
+P140,G066,4,18,20,No Preference
+P141,G066,4,18,20,No Preference
+P142,G066,4,18,20,No Preference
+P143,G067,1,1,8,No Preference
+P144,G068,3,17,18,No Preference
+P145,G068,3,17,18,No Preference
+P146,G068,3,17,18,No Preference
+P147,G069,1,7,15,No Preference
+P148,G070,1,5,13,Upper
+P149,G071,6,8,16,Lower
+P150,G071,6,8,16,Lower
+P151,G071,6,8,16,Lower
+P152,G071,6,8,16,Lower
+P153,G071,6,8,16,Lower
+P154,G071,6,8,16,Lower
+P155,G072,5,1,17,Upper
+P156,G072,5,1,17,Upper
+P157,G072,5,1,17,Upper
+P158,G072,5,1,17,Upper
+P159,G072,5,1,17,Upper
+P160,G073,3,6,14,Lower
+P161,G073,3,6,14,Lower
+P162,G073,3,6,14,Lower
+P163,G074,2,5,19,Upper
+P164,G074,2,5,19,Upper
+P165,G075,2,2,7,No Preference
+P166,G075,2,2,7,No Preference
+P167,G076,2,11,16,Upper
+P168,G076,2,11,16,Upper
+P169,G077,2,2,3,No Preference
+P170,G077,2,2,3,No Preference
+P171,G078,1,13,15,No Preference
+P172,G079,2,8,13,Upper
+P173,G079,2,8,13,Upper
+P174,G080,5,8,16,No Preference
+P175,G080,5,8,16,No Preference
+P176,G080,5,8,16,No Preference
+P177,G080,5,8,16,No Preference
+P178,G080,5,8,16,No Preference
+P179,G081,1,13,14,Lower
+P180,G082,3,12,16,Lower
+P181,G082,3,12,16,Lower
+P182,G082,3,12,16,Lower
+P183,G083,2,13,18,No Preference
+P184,G083,2,13,18,No Preference
+P185,G084,3,1,6,Upper
+P186,G084,3,1,6,Upper
+P187,G084,3,1,6,Upper
+P188,G085,2,13,18,Lower
+P189,G085,2,13,18,Lower
+P190,G086,1,12,17,Lower
+P191,G087,6,19,20,No Preference
+P192,G087,6,19,20,No Preference
+P193,G087,6,19,20,No Preference
+P194,G087,6,19,20,No Preference
+P195,G087,6,19,20,No Preference
+P196,G087,6,19,20,No Preference
+P197,G088,1,18,19,Upper
+P198,G089,3,6,14,Side
+P199,G089,3,6,14,Side
+P200,G089,3,6,14,Side
